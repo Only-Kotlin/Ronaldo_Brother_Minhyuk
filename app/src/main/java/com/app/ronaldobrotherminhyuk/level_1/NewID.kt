@@ -1,6 +1,6 @@
 package com.app.ronaldobrotherminhyuk.level_1
 
-class Solution {
+class NewID {
     fun solution(new_id: String): String {
         var answer = new_id
 
