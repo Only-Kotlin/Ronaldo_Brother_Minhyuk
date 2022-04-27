@@ -1,4 +1,4 @@
-package com.app.ronaldobrotherminhyuk.level_1
+package com.app.ronaldobrotherminhyuk.programers.level_1
 
 class TwoIntSum {
     fun solution(a: Int, b: Int): Long {
